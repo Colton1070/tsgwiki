@@ -2,6 +2,11 @@
 
 * [👋 Welcome to the Scripter's Guild Wiki!](README.md)
 
+## Tutorials
+
+* [Video Resources](tutorials/video-resources.md)
+* [Creating your first Script](tutorials/creating-your-first-script.md)
+
 ## Node Reference
 
 * [Node Graph Interface](node-reference/node-graph-interface.md)
