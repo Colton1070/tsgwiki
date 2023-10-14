@@ -1,0 +1,2 @@
+# Get \[Type] Variable
+
