@@ -20,5 +20,5 @@ Node types are a way to organize nodes based on what they do. While there are no
   * Triggered by an execution connection via it's input execution pin.
   * May also temporarily store and provide date via its output connection pins, as well as require or receive optional input data to successfully execute.
 * [data-node](data-node/ "mention")(s)
-  * Does not have any [execution pins](../connection-pins/execution-pin.md). Performs an operation when an execution node it is related to is triggered. Data nodes send information forward and can be combined to create complex operations to prepare data for an execution node.
+  * Does not have any input [execution pins](../connection-pins/execution-pin.md). Performs an operation when an execution node it is related to is triggered. Data nodes send information forward and can be combined to create complex operations to prepare data for an execution node.
   * May feed into one or many execution nodes within the same event.

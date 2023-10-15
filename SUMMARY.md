@@ -33,4 +33,9 @@
   * [Objects Transform](node-reference/node-categories/objects-transform/README.md)
     * [Translate Object to Point](node-reference/node-categories/objects-transform/translate-object-to-point.md)
   * [Variables (Basic)](node-reference/node-categories/variables-basic/README.md)
+    * [Area Monitor](node-reference/node-categories/variables-basic/area-monitor.md)
     * [Object Reference](node-reference/node-categories/variables-basic/object-reference.md)
+
+## Scripting Reference
+
+* [Area Monitors](scripting-reference/area-monitors.md)
